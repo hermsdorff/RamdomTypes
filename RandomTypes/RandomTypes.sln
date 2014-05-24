@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTypes", "RandomTypes\RandomTypes.csproj", "{02022942-ECC0-496D-9D53-16274166CD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E314097F-022B-4F98-B6DA-9BC7BDD7980F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{531C61A0-FEEC-4841-A671-B8F12B70D8AA}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		RandomTypes.vsmdi = RandomTypes.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RandomTypes.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02022942-ECC0-496D-9D53-16274166CD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02022942-ECC0-496D-9D53-16274166CD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02022942-ECC0-496D-9D53-16274166CD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02022942-ECC0-496D-9D53-16274166CD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E314097F-022B-4F98-B6DA-9BC7BDD7980F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E314097F-022B-4F98-B6DA-9BC7BDD7980F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E314097F-022B-4F98-B6DA-9BC7BDD7980F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E314097F-022B-4F98-B6DA-9BC7BDD7980F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
