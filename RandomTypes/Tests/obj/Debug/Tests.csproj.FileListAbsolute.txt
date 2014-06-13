@@ -1,0 +1,7 @@
+C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\Tests\bin\Debug\Tests.dll
+C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\Tests\bin\Debug\Tests.pdb
+C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\Tests\bin\Debug\RandomTypes.dll
+C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\Tests\bin\Debug\RandomTypes.pdb
+C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\Tests\obj\Debug\Tests.dll
+C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\Tests\obj\Debug\Tests.pdb

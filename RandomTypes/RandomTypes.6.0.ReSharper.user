@@ -1,12 +1,30 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:Class1.cs" caret="0" fromTop="0" />
-      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:UnitTest1.cs" caret="175" fromTop="8" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:IRandomType.cs" caret="90" fromTop="4" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomBool.cs" caret="172" fromTop="8" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomInt.cs" caret="462" fromTop="10" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="775" fromTop="11" />
     </RecentFiles>
     <RecentEdits>
-      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:Class1.cs" caret="0" fromTop="0" />
-      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomBool.cs" caret="0" fromTop="0" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="0" fromTop="0" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="384" fromTop="13" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="452" fromTop="24" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomBool.cs" caret="492" fromTop="23" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomBool.cs" caret="403" fromTop="19" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomBool.cs" caret="302" fromTop="13" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="246" fromTop="4" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="79" fromTop="4" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:IRandomType.cs" caret="90" fromTop="4" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomBool.cs" caret="164" fromTop="7" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="586" fromTop="15" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomInt.cs" caret="833" fromTop="22" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomInt.cs" caret="984" fromTop="22" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomInt.cs" caret="584" fromTop="9" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomInt.cs" caret="571" fromTop="9" />
+      <File id="02022942-ECC0-496D-9D53-16274166CD11/f:RandomInt.cs" caret="462" fromTop="10" />
+      <File id="E314097F-022B-4F98-B6DA-9BC7BDD7980F/f:RandomTypesTests.cs" caret="1017" fromTop="26" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -26,4 +44,75 @@
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="Tests.RandomTypesTests" type="MsTestTestClassElement" TypeName="Tests.RandomTypesTests" Project="E314097F-022B-4F98-B6DA-9BC7BDD7980F" />
+        <UnitTestElement Provider="MSTest" Id="Tests.RandomTypesTests.RandomBoolTest" ParentId="Tests.RandomTypesTests" type="MsTestTestMethodElement" MethodName="RandomBoolTest" Project="E314097F-022B-4F98-B6DA-9BC7BDD7980F" />
+        <UnitTestElement Provider="MSTest" Id="Tests.RandomTypesTests.RandomIntTest" ParentId="Tests.RandomTypesTests" type="MsTestTestMethodElement" MethodName="RandomIntTest" Project="E314097F-022B-4F98-B6DA-9BC7BDD7980F" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="bool" priority="92" />
+      <Item value="RandomBoolTest`0" priority="31" />
+      <Item value="new" priority="287" />
+      <Item value="RandomBool" priority="28" />
+      <Item value="random" priority="287" />
+      <Item value="foreach" priority="31" />
+      <Item value="for" priority="31" />
+      <Item value="booleans" priority="190" />
+      <Item value="Length" priority="26" />
+      <Item value="var" priority="351" />
+      <Item value="Count`1" priority="53" />
+      <Item value="b" priority="31" />
+      <Item value="true" priority="63" />
+      <Item value="Assert`0" priority="95" />
+      <Item value="falses" priority="31" />
+      <Item value="public" priority="191" />
+      <Item value="return" priority="31" />
+      <Item value="ctor" priority="191" />
+      <Item value="int" priority="255" />
+      <Item value="private" priority="31" />
+      <Item value="this" priority="95" />
+      <Item value="_random" priority="159" />
+      <Item value="Random" priority="115" />
+      <Item value="randTrue" priority="31" />
+      <Item value="randFalse" priority="31" />
+      <Item value="TestMethod" priority="63" />
+      <Item value="void" priority="63" />
+      <Item value="typeof" priority="31" />
+      <Item value="T`0" priority="31" />
+      <Item value="IRandomType" priority="63" />
+      <Item value="EnvironmentVariableTarget`0" priority="31" />
+      <Item value="seed" priority="31" />
+      <Item value="Random`0" priority="31" />
+      <Item value="Min" priority="159" />
+      <Item value="Max" priority="95" />
+      <Item value="min" priority="63" />
+      <Item value="max" priority="63" />
+      <Item value="RandomInt" priority="28" />
+      <Item value="const" priority="63" />
+      <Item value="integer" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsTrue`0" priority="80" />
+      <Item value="IsFalse`0" priority="26" />
+      <Item value="IsInstanceOfType`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RandomTypes.RandomBool">
+      <Item value="GetNext`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="CompareTo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RandomTypes.RandomInt">
+      <Item value="GetNext`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

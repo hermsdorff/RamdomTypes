@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="FB99D1BB-82B2-4780-B1FE-03D8BE80E897" ModuleId="PoC.Moodle" />
+  <Module PersistentId="CB24E0D1-0686-4589-8F95-8FF4C6B3899C" ModuleId="MoodleWrapper" />
+</Modules>

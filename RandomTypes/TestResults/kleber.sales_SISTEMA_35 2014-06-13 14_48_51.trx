@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d633f780-502a-4467-812a-ab36a03bd938" name="kleber.sales@SISTEMA_35 2014-06-13 14:48:51" runUser="GRUPO_A&amp;C\kleber.sales" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85a7229b-c0e2-4ccf-bbdc-ab3a676bbce2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kleber.sales_SISTEMA_35 2014-06-13 14_48_51">
+      <DeploymentItem filename="C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\RandomTypes\bin\Debug\RandomTypes.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T14:48:51.7625945-03:00" queuing="2014-06-13T14:48:52.5113993-03:00" start="2014-06-13T14:48:52.7298007-03:00" finish="2014-06-13T14:49:03.6810709-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="RandomBoolTest" storage="c:\users\kleber.sales\documents\github\ramdomtypes\randomtypes\tests\bin\debug\tests.dll" id="c4aa62ce-68f3-eaa0-7c04-182ae8a472ed">
+      <Execution id="66f0b6c9-0a94-4b96-8242-870df15562f4" />
+      <TestMethod codeBase="C:/Users/kleber.sales/Documents/github/RamdomTypes/RandomTypes/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.RandomTypesTests, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RandomBoolTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c4aa62ce-68f3-eaa0-7c04-182ae8a472ed" executionId="66f0b6c9-0a94-4b96-8242-870df15562f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="66f0b6c9-0a94-4b96-8242-870df15562f4" testId="c4aa62ce-68f3-eaa0-7c04-182ae8a472ed" testName="RandomBoolTest" computerName="SISTEMA_35" duration="00:00:05.1136491" startTime="2014-06-13T14:48:53.5722061-03:00" endTime="2014-06-13T14:49:03.5718702-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66f0b6c9-0a94-4b96-8242-870df15562f4">
+    </UnitTestResult>
+  </Results>
+</TestRun>

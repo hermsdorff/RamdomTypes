@@ -1,0 +1,4 @@
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamento.Dominio\bin\Debug\Apontamento.Dominio.dll
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamento.Dominio\bin\Debug\Apontamento.Dominio.pdb
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamento.Dominio\obj\Debug\Apontamento.Dominio.dll
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamento.Dominio\obj\Debug\Apontamento.Dominio.pdb

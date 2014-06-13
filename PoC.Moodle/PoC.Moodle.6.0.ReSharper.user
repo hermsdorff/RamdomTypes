@@ -1,0 +1,342 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:app.config" caret="171" fromTop="6" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleCurso.cs" caret="319" fromTop="9" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleNoParameter.cs" caret="336" fromTop="14" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleSimpleParameterQuery.cs" caret="543" fromTop="20" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleUserAddResponse.cs" caret="0" fromTop="0" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleUserInfo.cs" caret="1627" fromTop="19" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:RestResponse.cs" caret="444" fromTop="16" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="908" fromTop="12" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleRequest.cs" caret="899" fromTop="11" />
+      <File id="FB99D1BB-82B2-4780-B1FE-03D8BE80E897/f:Program.cs" caret="324" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleRequest.cs" caret="525" fromTop="6" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="4115" fromTop="15" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="4115" fromTop="15" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="4115" fromTop="14" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleRequest.cs" caret="388" fromTop="7" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleRequest.cs" caret="726" fromTop="18" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleRequest.cs" caret="1127" fromTop="12" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="1456" fromTop="8" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleUserInfo.cs" caret="142" fromTop="6" />
+      <File id="FB99D1BB-82B2-4780-B1FE-03D8BE80E897/f:Program.cs" caret="303" fromTop="12" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="1549" fromTop="29" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleSimpleParameterQuery.cs" caret="92" fromTop="4" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="3349" fromTop="11" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleSimpleParameterQuery.cs" caret="181" fromTop="7" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleSimpleParameterQuery.cs" caret="355" fromTop="12" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleSimpleParameterQuery.cs" caret="531" fromTop="19" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="1167" fromTop="8" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="4087" fromTop="22" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="4048" fromTop="19" />
+      <File id="FB99D1BB-82B2-4780-B1FE-03D8BE80E897/f:Program.cs" caret="752" fromTop="20" />
+      <File id="FB99D1BB-82B2-4780-B1FE-03D8BE80E897/f:Program.cs" caret="1231" fromTop="28" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:MoodleUserInfo.cs" caret="1615" fromTop="18" />
+      <File id="FB99D1BB-82B2-4780-B1FE-03D8BE80E897/f:Program.cs" caret="1921" fromTop="11" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="373" fromTop="18" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="5351" fromTop="21" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="5293" fromTop="19" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="4722" fromTop="9" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="4792" fromTop="12" />
+      <File id="CB24E0D1-0686-4589-8F95-8FF4C6B3899C/f:Moodle.cs" caret="895" fromTop="19" />
+      <File id="FB99D1BB-82B2-4780-B1FE-03D8BE80E897/f:Program.cs" caret="602" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Moodle" priority="188" />
+      <Item value="var" priority="1341" />
+      <Item value="MoodleService" priority="138" />
+      <Item value="new" priority="735" />
+      <Item value="using" priority="189" />
+      <Item value="Moodle.MoodleService" priority="30" />
+      <Item value="ServiceReference1" priority="31" />
+      <Item value="ctor" priority="159" />
+      <Item value="private" priority="289" />
+      <Item value="string" priority="1375" />
+      <Item value="public" priority="510" />
+      <Item value="void" priority="159" />
+      <Item value="ResolveEventArgs`0" priority="30" />
+      <Item value="_urlBase" priority="127" />
+      <Item value="_token" priority="95" />
+      <Item value="funcao" priority="159" />
+      <Item value="client" priority="95" />
+      <Item value="RestRequest" priority="28" />
+      <Item value="request" priority="223" />
+      <Item value="Func" priority="31" />
+      <Item value="OAuth2AuthorizationRequestHeaderAuthenticator`0" priority="31" />
+      <Item value="return" priority="511" />
+      <Item value="response" priority="286" />
+      <Item value="Console`0" priority="159" />
+      <Item value="moodle" priority="255" />
+      <Item value="List" priority="499" />
+      <Item value="MoodleCurso`0" priority="318" />
+      <Item value="ToString`0" priority="30" />
+      <Item value="class" priority="93" />
+      <Item value="MoodleCursos`0" priority="63" />
+      <Item value="int" priority="831" />
+      <Item value="shortname" priority="96" />
+      <Item value="categoryid" priority="64" />
+      <Item value="categorysortorder" priority="32" />
+      <Item value="fullname" priority="128" />
+      <Item value="idnumber" priority="129" />
+      <Item value="summary" priority="32" />
+      <Item value="summaryformat" priority="32" />
+      <Item value="format" priority="32" />
+      <Item value="showgrades" priority="32" />
+      <Item value="newsitems" priority="32" />
+      <Item value="startdate" priority="32" />
+      <Item value="numsections" priority="32" />
+      <Item value="maxbytes" priority="32" />
+      <Item value="showreports" priority="32" />
+      <Item value="visible" priority="32" />
+      <Item value="hiddensections" priority="32" />
+      <Item value="groupmode" priority="32" />
+      <Item value="groupmodeforce" priority="32" />
+      <Item value="defaultgroupingid" priority="32" />
+      <Item value="timecreated" priority="32" />
+      <Item value="timemodified" priority="32" />
+      <Item value="enablecompletion" priority="32" />
+      <Item value="completionstartonenrol" priority="32" />
+      <Item value="completionnotify" priority="32" />
+      <Item value="lang" priority="64" />
+      <Item value="forcetheme" priority="32" />
+      <Item value="struct" priority="61" />
+      <Item value="foreach" priority="191" />
+      <Item value="in" priority="63" />
+      <Item value="cursos" priority="63" />
+      <Item value="Teste" priority="28" />
+      <Item value="teste" priority="31" />
+      <Item value="c" priority="31" />
+      <Item value="ConsultaWebService`1" priority="31" />
+      <Item value="object" priority="31" />
+      <Item value="userInfo" priority="32" />
+      <Item value="TU`0" priority="95" />
+      <Item value="Object`0" priority="31" />
+      <Item value="Void`0" priority="31" />
+      <Item value="null" priority="159" />
+      <Item value="String`0" priority="191" />
+      <Item value="MoodleUserInfo`0" priority="191" />
+      <Item value="parametro" priority="351" />
+      <Item value="if" priority="191" />
+      <Item value="MoodleUserInfo" priority="28" />
+      <Item value="usuario" priority="480" />
+      <Item value="usersInfo" priority="31" />
+      <Item value="Xml" priority="16" />
+      <Item value="username" priority="159" />
+      <Item value="T`0" priority="30" />
+      <Item value="RestRequest`0" priority="31" />
+      <Item value="req" priority="254" />
+      <Item value="webStream" priority="63" />
+      <Item value="reader" priority="31" />
+      <Item value="password" priority="63" />
+      <Item value="firstname" priority="63" />
+      <Item value="lastname" priority="63" />
+      <Item value="email" priority="63" />
+      <Item value="auth" priority="31" />
+      <Item value="RawData" priority="63" />
+      <Item value="raw" priority="31" />
+      <Item value="Data" priority="63" />
+      <Item value="serializador" priority="31" />
+      <Item value="RestResponse&lt;T&gt;" priority="28" />
+      <Item value="resposta" priority="31" />
+      <Item value="IMoodleRequest`0" priority="95" />
+      <Item value="interface" priority="30" />
+      <Item value="where" priority="31" />
+      <Item value="dadosRequisicao" priority="95" />
+      <Item value="Length" priority="53" />
+      <Item value="writer" priority="31" />
+      <Item value="oktek" priority="189" />
+      <Item value="MoodleWSPortTypeClient`0" priority="26" />
+      <Item value="login" priority="95" />
+      <Item value="resultado" priority="255" />
+      <Item value="MoodleWSPortType`0" priority="25" />
+      <Item value="MoodleWSPortTypeChannel`0" priority="25" />
+      <Item value="MoodleWSPortTypeClient" priority="25" />
+      <Item value="binding" priority="159" />
+      <Item value="true" priority="31" />
+      <Item value="EndpointAddress" priority="29" />
+      <Item value="endPoint" priority="31" />
+      <Item value="get_user_byusername`0" priority="26" />
+      <Item value="CustomBinding" priority="29" />
+      <Item value="Dictionary" priority="31" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="28" />
+      <Item value="_parametros" priority="127" />
+      <Item value="nome" priority="31" />
+      <Item value="valor" priority="31" />
+      <Item value="protected" priority="63" />
+      <Item value="p" priority="31" />
+      <Item value="LimpaParametros`0" priority="31" />
+      <Item value="FormatMoodleRequest`0" priority="31" />
+      <Item value="ConcatenaParametros`0" priority="31" />
+      <Item value="index" priority="63" />
+      <Item value="_moodleArrayName" priority="95" />
+      <Item value="AdicionaParametro`0" priority="223" />
+      <Item value="ConsultaWebService`2" priority="191" />
+      <Item value="MoodleUserAddResponse`0" priority="63" />
+      <Item value="usuarios" priority="31" />
+      <Item value="u" priority="31" />
+      <Item value="MoodleUserInfoQuery" priority="57" />
+      <Item value="MoodleRequest`0" priority="63" />
+      <Item value="_username" priority="63" />
+      <Item value="MoodleSingleObjectEncode`0" priority="31" />
+      <Item value="_param" priority="63" />
+      <Item value="paramName" priority="31" />
+      <Item value="_value" priority="63" />
+      <Item value="paramValue" priority="31" />
+      <Item value="cursosDoUsuario" priority="31" />
+      <Item value="MoodleGrade`0" priority="63" />
+      <Item value="curso" priority="191" />
+      <Item value="MoodleSimpleParameterQuery" priority="28" />
+      <Item value="MoodleDupCourseResult" priority="32" />
+      <Item value="MoodleDupCourseRequest" priority="28" />
+      <Item value="this" priority="159" />
+      <Item value="courseid" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="134" />
+      <Item value="Join`0" priority="53" />
+      <Item value="Empty" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RestSharp.RestRequest">
+      <Item value="AddParameter`0" priority="107" />
+      <Item value="RequestFormat" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RestSharp.RestClient">
+      <Item value="Execute`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="135" />
+      <Item value="ReadLine`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RestSharp.IRestResponse">
+      <Item value="Content" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.Moodle">
+      <Item value="core_course_get_courses`0" priority="26" />
+      <Item value="core_user_create_users`0" priority="26" />
+      <Item value="GetUserByUserName`0" priority="26" />
+      <Item value="GetUsers`0" priority="26" />
+      <Item value="GetGrades`0" priority="26" />
+      <Item value="DuplicateCourse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RestSharp.RestResponse`1">
+      <Item value="Data" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.MoodleCurso">
+      <Item value="fullname" priority="80" />
+      <Item value="summary" priority="26" />
+      <Item value="summaryformat" priority="26" />
+      <Item value="id" priority="80" />
+      <Item value="idnumber" priority="22" />
+      <Item value="categoryid" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.MoodleUserInfo">
+      <Item value="username" priority="80" />
+      <Item value="password" priority="26" />
+      <Item value="firstname" priority="53" />
+      <Item value="lastname" priority="53" />
+      <Item value="city" priority="26" />
+      <Item value="auth" priority="26" />
+      <Item value="email" priority="26" />
+      <Item value="MoodleEncode`0" priority="26" />
+      <Item value="id" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="80" />
+      <Item value="Join`4" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="Method" priority="26" />
+      <Item value="ContentType" priority="26" />
+      <Item value="GetResponse`0" priority="26" />
+      <Item value="ContentLength" priority="80" />
+      <Item value="GetRequestStream`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebResponse">
+      <Item value="GetResponseStream`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Read`0" priority="26" />
+      <Item value="Write`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Script.Serialization.JavaScriptSerializer">
+      <Item value="Deserialize`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="MoodleEncode`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.oktek.MoodleWSPortTypeClient">
+      <Item value="get_user_byusername`0" priority="53" />
+      <Item value="login`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.oktek.loginReturn">
+      <Item value="client" priority="26" />
+      <Item value="sessionkey" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.oktek.getUsersReturn">
+      <Item value="users" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.BasicHttpBinding">
+      <Item value="AllowCookies" priority="26" />
+      <Item value="MaxReceivedMessageSize" priority="26" />
+      <Item value="MessageVersion" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.Channels.MessageVersion">
+      <Item value="Soap11" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="26" />
+      <Item value="Clear`0" priority="26" />
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpUtility">
+      <Item value="UrlEncode`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="107" />
+      <Item value="Value" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.RestResponse`1">
+      <Item value="Data" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoodleWrapper.MoodleDupCourseRequest">
+      <Item value="AdicionaParametro`0" priority="107" />
+      <Item value="fullname" priority="26" />
+      <Item value="shortname" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

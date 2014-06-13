@@ -1,0 +1,16 @@
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\bin\Debug\Apontamentos.exe
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\bin\Debug\Apontamentos.pdb
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\App.g.cs
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos_MarkupCompile.cache
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos_MarkupCompile.lref
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\MainWindow.baml
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos.g.resources
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos.Properties.Resources.resources
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos.csproj.GenerateResource.Cache
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos.exe
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos.pdb
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\bin\Debug\Apontamento.Dominio.dll
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\bin\Debug\Apontamento.Dominio.pdb
+C:\Users\kleber.sales\Documents\RamdomTypes\Apontamentos\Apontamentos\obj\x86\Debug\Apontamentos.csprojResolveAssemblyReference.cache

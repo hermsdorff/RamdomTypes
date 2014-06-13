@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="dabf8bc7-c9b2-4d42-8f55-21776545f2b7" name="kleber.sales@SISTEMA_35 2014-06-13 15:07:59" runUser="GRUPO_A&amp;C\kleber.sales" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85a7229b-c0e2-4ccf-bbdc-ab3a676bbce2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kleber.sales_SISTEMA_35 2014-06-13 15_07_59">
+      <DeploymentItem filename="C:\Users\kleber.sales\Documents\github\RamdomTypes\RandomTypes\RandomTypes\bin\Debug\RandomTypes.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-13T15:07:59.1147601-03:00" queuing="2014-06-13T15:07:59.1459599-03:00" start="2014-06-13T15:07:59.1615598-03:00" finish="2014-06-13T15:07:59.3799584-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="RandomIntTest" storage="c:\users\kleber.sales\documents\github\ramdomtypes\randomtypes\tests\bin\debug\tests.dll" id="021bd42e-f236-0944-32ef-a15a249fb271">
+      <Execution id="ca0c4d4a-368b-437f-ac99-2ee7255d78c6" />
+      <TestMethod codeBase="C:/Users/kleber.sales/Documents/github/RamdomTypes/RandomTypes/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.RandomTypesTests, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RandomIntTest" />
+    </UnitTest>
+    <UnitTest name="RandomBoolTest" storage="c:\users\kleber.sales\documents\github\ramdomtypes\randomtypes\tests\bin\debug\tests.dll" id="c4aa62ce-68f3-eaa0-7c04-182ae8a472ed">
+      <Execution id="3840d4ba-55c3-4175-ac5a-ffc7d8020c83" />
+      <TestMethod codeBase="C:/Users/kleber.sales/Documents/github/RamdomTypes/RandomTypes/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.RandomTypesTests, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RandomBoolTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="021bd42e-f236-0944-32ef-a15a249fb271" executionId="ca0c4d4a-368b-437f-ac99-2ee7255d78c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c4aa62ce-68f3-eaa0-7c04-182ae8a472ed" executionId="3840d4ba-55c3-4175-ac5a-ffc7d8020c83" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ca0c4d4a-368b-437f-ac99-2ee7255d78c6" testId="021bd42e-f236-0944-32ef-a15a249fb271" testName="RandomIntTest" computerName="SISTEMA_35" duration="00:00:00.0110811" startTime="2014-06-13T15:07:59.1927596-03:00" endTime="2014-06-13T15:07:59.3331587-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca0c4d4a-368b-437f-ac99-2ee7255d78c6">
+    </UnitTestResult>
+    <UnitTestResult executionId="3840d4ba-55c3-4175-ac5a-ffc7d8020c83" testId="c4aa62ce-68f3-eaa0-7c04-182ae8a472ed" testName="RandomBoolTest" computerName="SISTEMA_35" duration="00:00:00.0003840" startTime="2014-06-13T15:07:59.3487586-03:00" endTime="2014-06-13T15:07:59.3487586-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3840d4ba-55c3-4175-ac5a-ffc7d8020c83">
+    </UnitTestResult>
+  </Results>
+</TestRun>
