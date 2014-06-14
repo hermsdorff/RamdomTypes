@@ -34,11 +34,24 @@ namespace Tests
         {
             const int Min = -100;
             const int Max = 100;
-
+            
             var random = new RandomInt(Min, Max);
             var integer = random.GetNext();
 
             Assert.IsTrue(integer >= Min && integer <= Max);
+        }
+
+        [TestMethod]
+        public void RandomAlphabeticalStringTest()
+        {
+            const int MinLength = 10;
+            const int MaxLength = 20;
+
+            var random = new RandomAlphabeticalString(MinLength, MaxLength);
+            var text = random.GetNext();
+
+            Assert.IsTrue(text.Length >= MinLength);
+            Assert.IsTrue(text.Length <= MaxLength);
         }
     }
 }
