@@ -1,6 +1,0 @@
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\MoodleWrapper\bin\Debug\MoodleWrapper.dll
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\MoodleWrapper\bin\Debug\MoodleWrapper.pdb
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\MoodleWrapper\obj\Debug\MoodleWrapper.dll
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\MoodleWrapper\obj\Debug\MoodleWrapper.pdb
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\MoodleWrapper\bin\Debug\MoodleWrapper.dll.config
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\MoodleWrapper\obj\Debug\MoodleWrapper.csprojResolveAssemblyReference.cache

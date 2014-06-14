@@ -1,8 +1,0 @@
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\bin\Debug\PoC.Moodle.exe.config
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\bin\Debug\PoC.Moodle.exe
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\bin\Debug\PoC.Moodle.pdb
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\bin\Debug\MoodleWrapper.dll
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\bin\Debug\MoodleWrapper.pdb
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\obj\x86\Debug\PoC.Moodle.csprojResolveAssemblyReference.cache
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\obj\x86\Debug\PoC.Moodle.exe
-C:\Users\kleber.sales\Documents\RamdomTypes\PoC.Moodle\PoC.Moodle\obj\x86\Debug\PoC.Moodle.pdb
