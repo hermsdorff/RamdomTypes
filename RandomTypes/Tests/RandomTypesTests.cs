@@ -7,6 +7,9 @@ namespace Tests
     [TestClass]
     public class RandomTypesTests
     {
+        const int MinLength = 10;
+        const int MaxLength = 20;
+
         [TestMethod]
         public void RandomBoolTest()
         {
@@ -44,10 +47,17 @@ namespace Tests
         [TestMethod]
         public void RandomAlphabeticalStringTest()
         {
-            const int MinLength = 10;
-            const int MaxLength = 20;
-
             var random = new RandomAlphabeticalString(MinLength, MaxLength);
+            var text = random.GetNext();
+
+            Assert.IsTrue(text.Length >= MinLength);
+            Assert.IsTrue(text.Length <= MaxLength);
+        }
+
+        [TestMethod]
+        public void RandomAlphaNumericStringTest()
+        {
+            var random = new RandomAlphaNumericString(MinLength, MaxLength);
             var text = random.GetNext();
 
             Assert.IsTrue(text.Length >= MinLength);
