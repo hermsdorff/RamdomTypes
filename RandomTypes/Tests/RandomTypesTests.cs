@@ -1,8 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Net.Mail;
 
 namespace Tests
 {
     using RandomTypes;
+    using System.Text.RegularExpressions;
 
     [TestClass]
     public class RandomTypesTests
@@ -62,6 +64,18 @@ namespace Tests
 
             Assert.IsTrue(text.Length >= MinLength);
             Assert.IsTrue(text.Length <= MaxLength);
+        }
+
+        [TestMethod]
+        public void RandomEmailAddressTest()
+        {
+            var regex = new Regex(@"^([A-Za-z]{3,10})@([A-Za-z]{3,10})((\.[A-Za-z]{2,3})+)$");
+
+            var random = new RandomEmailAddress();
+            string email = random.GetNext();
+
+            Match match = regex.Match(email);
+            Assert.IsTrue(match.Success);
         }
     }
 }

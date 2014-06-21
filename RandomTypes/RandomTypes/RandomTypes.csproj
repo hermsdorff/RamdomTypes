@@ -45,6 +45,7 @@
     <Compile Include="RandomAlphaNumericString.cs" />
     <Compile Include="RandomBool.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomEmail.cs" />
     <Compile Include="RandomInt.cs" />
     <Compile Include="RandomString.cs" />
   </ItemGroup>
